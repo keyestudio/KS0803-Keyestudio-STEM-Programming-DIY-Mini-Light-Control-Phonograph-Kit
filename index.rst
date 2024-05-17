@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KS0803 Keyestudio STEM创意编程科技小制作套装 光控留声机
+   :caption: KS0803 STEM Programming DIY Mini Light Controlled Phonograph Kit
 
    README.md
    docs/keyestudio/index
