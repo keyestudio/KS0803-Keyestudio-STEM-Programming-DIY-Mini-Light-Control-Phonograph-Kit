@@ -608,7 +608,7 @@ Do operations according to the tutorials of the two development boards.
 
 #### 1. ESP32 Easy Coding Board Tutorial
 
-[ESP32](ESP32/ESP32.md)
+<!--[ESP32](ESP32/ESP32.md)-->
 
 #### 2. Microbit Tutorial
 
